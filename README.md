@@ -1,0 +1,2 @@
+# shoplisterserver
+Shop list server
