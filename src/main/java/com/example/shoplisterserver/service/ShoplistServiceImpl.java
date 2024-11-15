@@ -1,9 +1,6 @@
 package com.example.shoplisterserver.service;
 
-import com.example.shoplisterserver.model.Item;
-import com.example.shoplisterserver.model.Shop;
 import com.example.shoplisterserver.model.Shoplist;
-import com.example.shoplisterserver.repository.ItemRepository;
 import com.example.shoplisterserver.repository.ShoplistRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

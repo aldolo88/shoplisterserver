@@ -1,7 +1,6 @@
 package com.example.shoplisterserver.service;
 
 import com.example.shoplisterserver.model.Item;
-import com.example.shoplisterserver.model.Shop;
 
 import java.util.List;
 import java.util.Optional;

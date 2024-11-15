@@ -1,8 +1,6 @@
 package com.example.shoplisterserver.service;
 
-import com.example.shoplisterserver.model.Item;
 import com.example.shoplisterserver.model.Measure;
-import com.example.shoplisterserver.repository.ItemRepository;
 import com.example.shoplisterserver.repository.MeasureRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 

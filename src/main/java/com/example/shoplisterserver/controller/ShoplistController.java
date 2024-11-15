@@ -1,8 +1,6 @@
 package com.example.shoplisterserver.controller;
 
-import com.example.shoplisterserver.model.Shop;
 import com.example.shoplisterserver.model.Shoplist;
-import com.example.shoplisterserver.service.ShopService;
 import com.example.shoplisterserver.service.ShoplistService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

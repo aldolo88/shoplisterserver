@@ -1,6 +1,5 @@
 package com.example.shoplisterserver.service;
 
-import com.example.shoplisterserver.model.Item;
 import com.example.shoplisterserver.model.Measure;
 
 import java.util.List;
